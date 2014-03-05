@@ -1,0 +1,20 @@
+{
+  "name": "koa-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "install": "~0.1.7",
+    "koa": "~0.5.0",
+    "dustjs-linkedin": "~2.2.8",
+    "koa-views": "~1.2.0",
+    "socket.io": "~0.9.16",
+    "npm": "~1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
